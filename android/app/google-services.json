@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "311686896735",
+    "firebase_url": "https://directed-asset-213609.firebaseio.com",
+    "project_id": "directed-asset-213609",
+    "storage_bucket": "directed-asset-213609.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311686896735:android:d329bb25544cfad3edcfea",
+        "android_client_info": {
+          "package_name": "me.ashek.easyscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311686896735-cdj3qamhgb7n6p9habbg1nme15d526ss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApkIA95VUHaN7-_EYcduB4WIpFh52GtiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311686896735-cdj3qamhgb7n6p9habbg1nme15d526ss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311686896735:android:1254ee24a8c371e6edcfea",
+        "android_client_info": {
+          "package_name": "me.ashek.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311686896735-cdj3qamhgb7n6p9habbg1nme15d526ss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApkIA95VUHaN7-_EYcduB4WIpFh52GtiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311686896735-cdj3qamhgb7n6p9habbg1nme15d526ss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
